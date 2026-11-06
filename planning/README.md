@@ -5,3 +5,4 @@
 - [decisions.md](decisions.md) — 결정 사항 (임시/확정 구분)
 - [schedule.md](schedule.md) — 워크플로우와 일정
 - [meetings/](meetings/) — 팀 회의, 터빈크루 미팅 메모
+- [ai-log.md](ai-log.md) — AI 활용 기록 (작업마다 한 줄씩 추가)

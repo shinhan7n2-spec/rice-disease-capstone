@@ -16,6 +16,7 @@
 
 자세한 일정: [planning/schedule.md](planning/schedule.md)
 결정 사항: [planning/decisions.md](planning/decisions.md)
+AI 활용 기록: [planning/ai-log.md](planning/ai-log.md)
 
 ## 폴더 안내
 | 폴더 | 역할 |
