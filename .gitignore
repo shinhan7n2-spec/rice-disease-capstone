@@ -1,0 +1,38 @@
+# 데이터셋·대용량 파일 (출처 링크만 data/README.md에 기록)
+data/raw/
+data/processed/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# 모델 학습 결과물 (용량 큼)
+runs/
+weights/
+*.pt
+*.pth
+*.onnx
+
+# 비밀 정보 (AWS 키 등)
+.env
+*.pem
+credentials*
+.aws/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Node (웹)
+node_modules/
+dist/
+build/
+
+# OS·편집기
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
