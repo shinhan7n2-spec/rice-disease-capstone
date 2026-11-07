@@ -16,3 +16,4 @@
 |---|---|---|---|---|---|---|
 | 2026-11-07 | 저장소 기본 구조 만들기 | Claude Opus 5.5 | 중간 | 폴더 구조 제안, README·기획 문서·.gitignore 초안 작성 | 프로젝트 내용 브리핑, 구조 승인, 내용 확인, 커밋·푸시 | README.md, .gitignore, planning/, data/, model/, web/, drone/, validation/ |
 | 2026-11-07 | AI 활용 기록 체계 만들기 | Claude Opus 5.5 | 중간 | 기록 규칙·기록표 작성, README 링크 추가 | 기록 항목(모델·추론 설정 포함) 결정, 프로젝트 지침 등록, 커밋·푸시 | planning/ai-log.md, README.md, planning/README.md |
+| 2026-11-07 | 1단계: AI Hub 데이터 조사·공개 모델 테스트 결과 정리 | Claude Opus 5.5 | 중간 | 사용자 제공 화면 캡처 분석, 수치 검산(IoU 등), 우리 계획(RGB)과의 차이 정리, 조사표·실험 기록 작성, 보고서 PDF 이름 변경·배치 | AI Hub 데이터 다운로드, 공개 모델 테스트 실행(2026-10-03)과 보고서 작성, 자료 제공, ①R·G·B 재학습 ②RGB 데이터 추가 방향 제시, 내용 확인, 커밋·푸시 | data/README.md, model/README.md, model/reports/2026-10-03_aihub-segformer-b4-test-report.pdf, README.md, planning/ai-log.md |
